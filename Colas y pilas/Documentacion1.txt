@@ -1,0 +1,7 @@
+Los arreglos son conjuntos de datos que se pueden agregar, editar o eliminar datos
+
+Funciones que se usan:
+array_slice()
+array_search()
+array_filter()
+array_merge()
