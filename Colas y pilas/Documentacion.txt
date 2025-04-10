@@ -1,0 +1,7 @@
+Las colas usan el principio FIFO (Firs in, First Out)
+array_push()Agrega un elemento a la colas
+array_shift()eleimina y retorna el primer elemento en salir 
+
+Las pilas aplican el principio LIFO (Last In,First Out)
+array_push()agrega elementos a la pila
+array_pop()elimina y retorna el ultimo elemento de la pila
