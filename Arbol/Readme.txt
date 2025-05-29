@@ -1,0 +1,1 @@
+En lugar de valores arbitrarios, imagina que los números representan duraciones en horas de videojuegos. El árbol organiza estas duraciones, y los recorridos muestran diferentes formas de listar estos juegos según su duración.
